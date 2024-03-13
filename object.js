@@ -7,3 +7,5 @@ console.log(bottle);
 const pair = Object.entries(bottle);
 console.log(pair);
 Object.seal(bottle);
+ const y= 10;
+console.log(x);
